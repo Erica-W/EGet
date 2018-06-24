@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGet", "EGet\EGet.csproj", "{003ABFDB-0DC5-4F74-A859-45818F29695B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EGetSetup", "EGetSetup\EGetSetup.vdproj", "{8F2EEB74-97E6-4C25-8EDD-32817C9354EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003ABFDB-0DC5-4F74-A859-45818F29695B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003ABFDB-0DC5-4F74-A859-45818F29695B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003ABFDB-0DC5-4F74-A859-45818F29695B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003ABFDB-0DC5-4F74-A859-45818F29695B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2EEB74-97E6-4C25-8EDD-32817C9354EE}.Debug|Any CPU.ActiveCfg = Debug
+		{8F2EEB74-97E6-4C25-8EDD-32817C9354EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20812E1-1754-4385-B3A0-FFECC2668C1C}
+	EndGlobalSection
+EndGlobal
